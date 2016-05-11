@@ -1,6 +1,20 @@
-The MIT License (MIT)
+```
+     __       ___.   .__  __                 
+    |__| _____\_ |__ |__|/  |_  ____   ______
+    |  |/  ___/| __ \|  \   __\/ __ \ /  ___/
+    |  |\___ \ | \_\ \  ||  | \  ___/ \___ \ 
+/\__|  /____  >|___  /__||__|  \___  >____  >
+\______|.___\/     \/    __        \/     \/ 
+      __| _/____   ____ |  | __ ___________  
+     / __ |/  _ \_/ ___\|  |/ // __ \_  __ \ 
+    / /_/ (  <_> )  \___|    <\  ___/|  | \/ 
+    \____ |\____/ \___  >__|_ \\___  >__|    
+         \/           \/     \/    \/ 
+```
 
-Copyright (c) 2016 Volkan Özçelik
+## The MIT License (*MIT*)
+
+Copyright © [Volkan Özçelik](me@volkan.io) and contributors.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -12,10 +26,10 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+**THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.**
