@@ -1,3 +1,23 @@
+     __       ___.   .__  __                 
+    |__| _____\_ |__ |__|/  |_  ____   ______
+    |  |/  ___/| __ \|  \   __\/ __ \ /  ___/
+    |  |\___ \ | \_\ \  ||  | \  ___/ \___ \ 
+/\__|  /____  >|___  /__||__|  \___  >____  >
+\______|.___\/     \/    __        \/     \/ 
+      __| _/____   ____ |  | __ ___________  
+     / __ |/  _ \_/ ___\|  |/ // __ \_  __ \ 
+    / /_/ (  <_> )  \___|    <\  ___/|  | \/ 
+    \____ |\____/ \___  >__|_ \\___  >__|    
+         \/           \/     \/    \/        
+
+## Summary
+
+`jsbites-docker` contains a **DockerFile** for playing with [Byte-Sized JavaScript](http://bit.ly/bytesized).
+
+## About This Repository
+
+This repository is a part of [Byte-Sized JavaScript Weekly VideoCast][vidcast].
+
 ```
   _               __
  |_)   _|_  _ __ (_  o _   _   _|
@@ -8,23 +28,11 @@
             »»  bit.ly/bytesized  ««
 ```
 
-# jsbites-docker
-
-
-
-## Summary
-
-`jsbites-docker` contains a **DockerFile** for playing with [Byte-Sized JavaScript](http://bit.ly/bytesized).
-
-## About This Repository
-
-This repository is a part of [Byte-Sized JavaScript Weekly VideoCast][vidcast].
-
 ## Byte-Sized What?!
 
 [Byte-Sized JavaScript][vidcast].
 
-It is a compilation of short (*less than five minutes*) weekly screencasts about **JavaScript** and related technologies.
+It is a compilation of short (*more or less five minutes long*) weekly screencasts about **JavaScript** and related technologies.
 
 ## Contact Information
 
